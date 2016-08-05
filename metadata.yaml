@@ -1,0 +1,33 @@
+_repo: The-Principles-of-Scientific-Management_6435
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Frederick Winslow
+    alias: Taylor, F. W. (Frederick Winslow)
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '2055'
+    url: http://www.gutenberg.org/2009/agents/2055
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Winslow_Taylor
+description: Today, the science of management is big business, with leading gurus
+  and consultants raking in billions of dollars each year. It's hard to believe that
+  little more than a century ago, the concept of management as a separate discipline
+  didn't even exist. Mechanical engineer Frederick Winslow Taylor almost single-handedly
+  pioneered the field with the publication of this classic text. Managers or those
+  in technical or industrial fields will find this to be fascinating reading.
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial management'
+- !lcc 'T'
+- !lcsh 'Management'
+- !lcsh 'Industrial engineering'
+- GITenberg
+title: The Principles of Scientific Management
+url: http://www.gutenberg.org/ebooks/6435
