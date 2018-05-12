@@ -1,5 +1,8 @@
 _repo: The-Principles-of-Scientific-Management_6435
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Taylor, Frederick Winslow
@@ -15,6 +18,8 @@ description: Today, the science of management is big business, with leading guru
   didn't even exist. Mechanical engineer Frederick Winslow Taylor almost single-handedly
   pioneered the field with the publication of this classic text. Managers or those
   in technical or industrial fields will find this to be fascinating reading.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6435#The-Principles-of-Scientific-Management
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
